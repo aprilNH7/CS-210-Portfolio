@@ -1,8 +1,8 @@
-Airgead Banking Investment Simulator
+# Airgead Banking Investment Simulator
 
 The Airgead Banking Investment Simulator is an interactive application designed to teach users the concepts of fiscal responsibility, investing, and the power of compound interest. This C++ application provides users with the ability to visualize how their investments can grow over time.
 
-Functional Requirements
+# Functional Requirements
 
 The application should meet the following functional requirements:
 
@@ -24,7 +24,9 @@ User-Friendly Interface:
 
 The user interface should be intuitive and easy to navigate.
 Clear instructions and labels should guide users through the investment simulation process.
-Airgead Banking Standards
+
+# Airgead Banking Standards
+
 To ensure the application follows best practices, adhere to the following standards:
 
 Object-Oriented Design:
@@ -40,7 +42,9 @@ Documentation:
 
 Include in-line comments to explain complex logic or key parts of the code.
 Maintain a clear separation of concerns by using meaningful variable and function names.
-Getting Started
+
+# Getting Started
+
 Prerequisites:
 
 Ensure you have a C++ development environment set up on your machine.
@@ -56,14 +60,15 @@ User Guide:
 Upon launching the application, follow the on-screen instructions to create an account or log in.
 Use the provided input fields to input your investment details.
 View the calculated investment growth and interact with the visual graphs.
-Conclusion
+
+# Conclusion
 
 The Airgead Banking Investment Simulator is a valuable tool that educates users about the benefits of investing and compound interest. By adhering to the Airgead Banking Standards and functional requirements, this application will contribute to the financial education of students and help them make informed fiscal decisions. If you have any questions or need assistance, please reach out to the development team.
 
 Happy coding!
 The Airgead Banking Development Team
 
-Class questions: 
+# Class Questions: 
 
 Project Summary and Problem Solving:
 
