@@ -62,3 +62,33 @@ The Airgead Banking Investment Simulator is a valuable tool that educates users 
 
 Happy coding!
 The Airgead Banking Development Team
+
+Class questions: 
+
+Project Summary and Problem Solving:
+
+The project involved developing an interactive C++ application for Airgead Banking to teach high school students about fiscal responsibility, investing, and compound interest. The application allowed users to input investment details and visualized the growth of their investments over time through graphs. The goal was to make financial concepts more understandable and engaging for students.
+
+Strengths in the Project:
+
+I excelled in adhering to object-oriented design principles, creating a clean and modular codebase that promotes reusability and maintainability. I also prioritized security by implementing proper input validation to prevent potential vulnerabilities. The user-friendly interface and clear instructions helped in delivering a seamless user experience.
+
+Areas for Code Enhancement:
+
+To further enhance the code, I could optimize the calculations involving compound interest for improved efficiency. Additionally, I could implement more comprehensive error handling to provide users with informative error messages. Incorporating unit tests would help ensure the robustness of the application.
+
+Challenging Code Sections and Overcoming Them:
+
+One of the challenging parts was designing the interactive graphs to visualize investment growth. I overcame this by researching and leveraging third-party libraries specifically designed for graph visualization in C++. This not only saved development time but also ensured a more polished graphical representation.
+
+Adding to the Support Network:
+
+Through this project, I expanded my support network by collaborating closely with the Airgead Banking Development Team. Additionally, I engaged with online communities and forums related to C++ development, investing, and financial education, allowing me to gain insights and troubleshoot challenges effectively.
+
+Transferable Skills to Other Projects:
+
+The skills I acquired in object-oriented design, secure coding practices, and user interface development are highly transferable. These skills can be applied to other programming projects, whether they involve developing software applications, web services, or even game development.
+
+Maintainability, Readability, and Adaptability:
+
+I ensured maintainability by adhering to best practices, using descriptive variable and function names, and providing in-line comments that explain complex logic. The modular structure of the code allows for easy updates and additions in the future. Prioritizing readability through well-organized code and consistent formatting contributes to the application's adaptability when new features are introduced or changes are required.
