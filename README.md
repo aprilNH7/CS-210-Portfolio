@@ -1,7 +1,9 @@
 Airgead Banking Investment Simulator
+
 The Airgead Banking Investment Simulator is an interactive application designed to teach users the concepts of fiscal responsibility, investing, and the power of compound interest. This C++ application provides users with the ability to visualize how their investments can grow over time.
 
 Functional Requirements
+
 The application should meet the following functional requirements:
 
 User Authentication:
@@ -55,6 +57,12 @@ Upon launching the application, follow the on-screen instructions to create an a
 Use the provided input fields to input your investment details.
 View the calculated investment growth and interact with the visual graphs.
 Conclusion
+
+The Airgead Banking Investment Simulator is a valuable tool that educates users about the benefits of investing and compound interest. By adhering to the Airgead Banking Standards and functional requirements, this application will contribute to the financial education of students and help them make informed fiscal decisions. If you have any questions or need assistance, please reach out to the development team.
+
+Happy coding!
+The Airgead Banking Development Team
+
 The Airgead Banking Investment Simulator is a valuable tool that educates users about the benefits of investing and compound interest. By adhering to the Airgead Banking Standards and functional requirements, this application will contribute to the financial education of students and help them make informed fiscal decisions. If you have any questions or need assistance, please reach out to the development team.
 
 Happy coding!
