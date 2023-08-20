@@ -62,8 +62,3 @@ The Airgead Banking Investment Simulator is a valuable tool that educates users 
 
 Happy coding!
 The Airgead Banking Development Team
-
-The Airgead Banking Investment Simulator is a valuable tool that educates users about the benefits of investing and compound interest. By adhering to the Airgead Banking Standards and functional requirements, this application will contribute to the financial education of students and help them make informed fiscal decisions. If you have any questions or need assistance, please reach out to the development team.
-
-Happy coding!
-The Airgead Banking Development Team
